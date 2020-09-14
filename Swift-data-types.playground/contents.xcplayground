@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='OptionSet'/>
+        <page name='vDSP Framework'/>
+        <page name='class vs static'/>
+        <page name='willSet vs disSet'/>
+        <page name='ResultType'/>
+    </pages>
 </playground>
