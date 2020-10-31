@@ -4,7 +4,11 @@
         <page name='OptionSet'/>
         <page name='vDSP Framework'/>
         <page name='class vs static'/>
-        <page name='willSet vs disSet'/>
         <page name='ResultType'/>
+        <page name='Codable'/>
+        <page name='willSet vs didSet'/>
+        <page name='RawPointers'/>
+        <page name='TypedPointers'/>
+        <page name='UnicodScalar'/>
     </pages>
 </playground>
